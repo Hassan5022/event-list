@@ -1,0 +1,25 @@
+#form{
+    display: flex;
+	flex-direction: column;
+}
+
+#form input, select {
+	padding: 12px 8px;
+	font-size: 18px;
+	border-radius: 4px;
+	color: var(--background-color);
+	background-color: #e5e5e5;
+	border: none;
+	margin-bottom: 24px;
+}
+
+#form label {
+	color: #e5e5e5;
+	font-weight: 600;
+	margin-bottom: 4px;
+}
+
+#form .modal-btn {
+    background-color: #e5e5e5;
+	align-self: center;
+}

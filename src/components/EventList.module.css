@@ -1,0 +1,9 @@
+.event{
+    background-color: var(--background-color);
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 12px;
+    box-shadow: 4px 4px 4px #adaaaa;
+    border-radius: 15px;
+    padding: 12px;
+}

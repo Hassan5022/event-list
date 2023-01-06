@@ -1,0 +1,8 @@
+.title-block{
+    background-color: var(--background-color);
+    max-width: 400px;
+    margin: 12px auto;
+    box-shadow: 4px 4px 4px #adaaaa;
+    border-radius: 15px;
+    padding: 24px 12px;
+}

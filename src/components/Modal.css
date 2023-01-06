@@ -1,0 +1,20 @@
+.modal-back {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal {
+	margin: 220px auto;
+	max-width: 480px;
+	border: 2px solid #adaaaa;
+	box-shadow: 4px 4px 8px #adaaaa;
+	padding: 32px 36px;
+	background-color: var(--background-color);
+	border-radius: 16px;
+}
+
+
